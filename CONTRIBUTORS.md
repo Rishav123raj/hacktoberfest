@@ -2428,7 +2428,7 @@ Noida
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
 
-#### Name: [Rishav Raj Bhagat] (https://github.com/Rishav123raj)
+#### Name: Rishav Raj Bhagat
 - Place: West Bengal, Bihar
 - Bio: A problem solver and DSA lover
 - Github: [Rishav Raj Bhagat] (https://github.com/Rishav123raj)
